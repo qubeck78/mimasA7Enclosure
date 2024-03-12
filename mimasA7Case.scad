@@ -85,7 +85,7 @@ difference()
 
             base();
             
-           translate( [ 0, 0, 25 ] ) lid();
+           translate( [ 0, 0, 35 ] ) lid();
         }
     }
     
